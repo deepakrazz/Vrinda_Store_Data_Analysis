@@ -16,7 +16,6 @@ Created a Interactive Dashboard so owner of the Vrinda store can understand thei
 - List top 5 states contributingto the sales?
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
-- Highest selling category?
 
 
 
